@@ -9,7 +9,11 @@ The primary objective of this project is to build a regression model that can pr
 Data sources
 Sales data: The primary data used for this analysis is the "Housing_Dataset.csv" file, which contains detailed information about each sale made by the company.
 
+### Tools
+- Excel
+- Jupyter notebook
 
+### Key Steps:
 - Data Collection: Obtain the housing dataset from a reliable source or repository.
 - Data Preprocessing: Clean the dataset by handling missing values, outliers, and encoding categorical variables. Perform feature scaling and normalization to ensure all features are on a similar scale.
 - Exploratory Data Analysis (EDA): Analyze the distribution of features, correlations, and patterns within the dataset. Visualize the data to gain insights into the relationships between different variables and their impact on housing prices.
